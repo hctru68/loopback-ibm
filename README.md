@@ -7,4 +7,5 @@
 > git add .<br>
 > git commit -m "source commit"<br>
 > git remote add origin https://github.com/hctru68/loopback-ibm.git<br>
-> git push -u origin master
+> git push -u origin master<br>
+> Lam check out twice
