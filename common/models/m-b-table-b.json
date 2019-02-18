@@ -1,0 +1,26 @@
+{
+  "name": "mB_TableB",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "Id": {
+      "type": "number",
+      "required": true
+    },
+    "Description": {
+      "type": "string",
+      "required": true,
+      "default": "abc"
+    },
+    "Checked": {
+      "type": "boolean"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

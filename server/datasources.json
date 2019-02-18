@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "exp2": {
+    "url": "https://45d4f894-61fe-4b6c-b7dc-b4cffae87f99-bluemix:60cc627c30d310b18bf2b4d0828f0da6b551a5fe1cd2c5b0416d7e8a3dbda76d@45d4f894-61fe-4b6c-b7dc-b4cffae87f99-bluemix.cloudantnosqldb.appdomain.cloud",
+    "database": "dbexp2",
+    "username": "45d4f894-61fe-4b6c-b7dc-b4cffae87f99-bluemix",
+    "password": "60cc627c30d310b18bf2b4d0828f0da6b551a5fe1cd2c5b0416d7e8a3dbda76d",
+    "name": "exp2",
+    "modelIndex": "ModelA",
+    "connector": "cloudant"
+  }
+}
