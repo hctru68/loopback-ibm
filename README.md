@@ -8,4 +8,6 @@
 > git commit -m "source commit"<br>
 > git remote add origin https://github.com/hctru68/loopback-ibm.git<br>
 > git push -u origin master<br>
-> Lam check out twice
+# Create new branch:
+> git branch -a : view all branches
+> git checkout -b features/001 : create new branch with name "features/001"
