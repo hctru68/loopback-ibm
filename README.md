@@ -8,4 +8,3 @@
 > git commit -m "source commit"<br>
 > git remote add origin https://github.com/hctru68/loopback-ibm.git<br>
 > git push -u origin master
-> Lam: checkout
